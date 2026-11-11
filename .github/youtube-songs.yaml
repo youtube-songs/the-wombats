@@ -1,0 +1,392 @@
+country: PL
+title: The Wombats
+
+'A Guide to Love, Loss & Desperation':
+    'Tales of Girls, Boys & Marsupials':
+        id: nln6bnIWgkw
+    'Kill the Director':
+        id: mTTB90p23qo
+    'Moving to New York':
+        id: r0LSf6yoYJE
+    'Lost in the Post':
+        id: yPMMaFRi7x0
+    "Party in a Forest (Where's Laura?)":
+        id: O-pCJhwAFog
+    'School Uniforms':
+        id: b9s8dzm42bo
+    'Here Comes the Anxiety':
+        id: efzyb0ge-9w
+    "Let's Dance to Joy Division":
+        id: JZCskt9Lorc
+    'Backfire at the Disco':
+        id: 99pGi88f-e8
+    'Little Miss Pipedream':
+        id: qhc7EF8D9Tw
+    'Dr Suzanne Mattox PhD':
+        id: XO7vgONvUBQ
+    'Patricia the Stripper':
+        id: p1s-at33zWk
+    'My First Wedding':
+        id: 2wdrwdiUWUc
+    '(Everything I Do) I Do It for You':
+        id: yX8xckqQwKQ
+        cover: Bryan Adams
+        live: XFM session 2007
+        source: B-side of "Moving to New York" re-release
+    'Patience':
+        id: a29shjQvdkM
+        cover: Take That
+        live: Radio 1 Live Lounge 2008
+        source: B-side of "Backfire at the Disco" re-release
+    'There She Goes':
+        id: oTtWh0gsYmg
+        cover: The La's
+        live: triple j Like A Version 2008
+        source: B-side of "Kill the Director" re-release
+    'Bleeding Love':
+        id: _p24w4DCLXM
+        cover: Leona Lewis
+        source: B-side of "Kill the Director" re-release
+    'The Ostrich Song':
+        id: WnA9a5PxAH0
+        source: '"The Daring Adventures of Sgt. Wimbo and His Pet Otter" EP'
+    "If It's Alright with You":
+        id: -JkteGwLyXI
+        source: '"The Daring Adventures of Sgt. Wimbo and His Pet Otter" EP'
+    'Baby Tinkerbell':
+        id: mL1tzt8D53Q
+        source: '"The Daring Adventures of Sgt. Wimbo and His Pet Otter" EP'
+    'You Made Me Feel Like Brad Pitt':
+        id: WyhcsIkpb5Q
+        source: '"The Daring Adventures of Sgt. Wimbo and His Pet Otter" EP'
+    "We Don't Mean That Much":
+        id: 61Xb9vv0whk
+        source: '"The Hangover Sessions" EP'
+    'It Was Fun':
+        id: i_h5wPBw8To
+        source: '"The Hangover Sessions" EP'
+    "Thumper's Philosophy":
+        id: tKYXNjtWSas
+        source: '"The Hangover Sessions" EP'
+    'Black and Blue':
+        id: iji2K8QqZH8
+        source: '"The Hangover Sessions" EP'
+    'Happily Screwed':
+        id: DCFlITckVyc
+        source: '"No. 3" EP'
+    "The Barman's Fault":
+        id: SSWh5CPueSQ
+        source: '"No. 3" EP'
+    'The Baa Baa Song!':
+        id: A77sF2jPzcg
+        source: '"No. 3" EP'
+    'Derail & Crash':
+        id: QoxkyTIemqE
+        source: '"The Wombats" EP'
+    'Theme Park Blues':
+        id: o8ub03mPNBI
+        source: '"The Wombats" EP'
+    'Caravan in Wales':
+        id: nfnR3beWauU
+        source: '"The Wombats" EP'
+    'Record Shop':
+        id: GMt0h3zvNbI
+        source: '"The Wombats" EP'
+    'Sopper Waits':
+        id: yuoVpz3PM0g
+        source: '"The Wombats" EP'
+    'Die Hard Movie Girl':
+        id: YgnIpBaKAo8
+        source: '"The Wombats" EP'
+    'The Metro Song':
+        id: 3xPoKhkN7dc
+        source: '"The Wombats" EP'
+    'Summer Hit':
+        id: FkAFJcTsi3w
+        source: '"The Wombats" EP'
+    'Sunday T.V.':
+        id: YkNgDJ7n1BQ
+        source: '"Girls, Boys and Marsupials" album'
+    'Is This Christmas?':
+        id: _3OzcC1GbgY
+        source: '"The Best Kids Christmas Album in the World Ever Ever Ever!!!" compilation album'
+    'My Circuitboard City':
+        id: Tpjgs-9cdiw
+        source: '"My Circuitboard City" single'
+
+'This Modern Glitch':
+    'Our Perfect Disease':
+        id: esd4vuMEJ98
+    'Tokyo (Vampires & Wolves)':
+        id: Idj-UeEi-OA
+    'Jump into the Fog':
+        id: wEPnPWvxB1w
+    'Anti-D':
+        id: 45vOXG2zMks
+    'Last Night I Dreamt...':
+        id: RUfj_LG76x4
+    'Techno Fan':
+        id: t9XvJ-LwNQQ
+    '1996':
+        id: jCMcFaWRiQM
+    'Walking Disasters':
+        id: BKLgOvypPnI
+    'Girls/Fast Cars':
+        id: N_WfH9QCwzQ
+    'Schumacher the Champagne':
+        id: 584ZDPjY4rA
+    'How I Miss Sally Bray':
+        id: eQQrRqg_jwg
+        source: B-side of "Jump into the Fog"
+    'Valentine':
+        id: Y18gwTPA75k
+        source: B-side of "Jump into the Fog"
+    'Addicted to the Cure':
+        id: zhsvxno6o7M
+        source: B-side of "Jump into the Fog"
+    "I'm a Robot Like You":
+        id: rDum3TQxc6c
+        source: B-side of "Anti-D"
+    'Dear Hamburg':
+        id: WLHiYuUnke8
+        source: B-side of "Anti-D"
+    'Wonderful Distraction':
+        id: TJ3aNCCQuRc
+        source: B-side of "Anti-D"
+    'Avalanche':
+        id: mJLCRMLOpBk
+        source: B-side of "Techno Fan"
+    'Trampolining':
+        id: l0A4o1By3kU
+        source: B-side of "Techno Fan"
+    "Shock Goodbyes and P45's":
+        id: 6mY5D7jm2oo
+        source: B-side of "Techno Fan"
+    'Guillotine':
+        id: 5GAVrER8AkQ
+        source: B-side of "Our Perfect Disease"
+    "IOU's":
+        id: _f5AyIO0aDw
+        source: B-side of "Our Perfect Disease"
+    "Reynold's Park":
+        id: onmVwC2_2ic
+        source: B-side of "Our Perfect Disease"
+    'True Faith':
+        id: -BTLI8g5Arg
+        cover: New Order
+        source: '"True Faith" single'
+    'Unexploded Bomb':
+        id: l0ebGBgwBGY
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+
+'Glitterbug':
+    'Emoticons':
+        id: OLzGV3R0kLw
+    'Give Me a Try':
+        id: fd_4GHr0dAA
+    'Greek Tragedy':
+        id: hNwoVV_OgnQ
+    'Be Your Shadow':
+        id: 4AsvZge3IiQ
+    'Headspace':
+        id: FRzL4-QbM8U
+    'This Is Not a Party':
+        id: GnkBCGC_3nc
+    'Isabel':
+        id: mEKTnkUZkMs
+    'Your Body Is a Weapon':
+        id: KSb1iSNg4CM
+    'The English Summer':
+        id: _Am05VW1m8A
+    'Pink Lemonade':
+        id: zCeo2V8wAUg
+    'Curveballs':
+        id: 9obSUlo7Bb8
+    'Sex and Question Marks':
+        id: BqZEO298A4U
+        source: deluxe edition
+    'Flowerball':
+        id: 6-TkDM2bszo
+        source: deluxe edition
+    'Right Click Save':
+        id: scDQAGibUyU
+        source: HMV edition bonus
+    '21st Century Blues':
+        id: BaZYvzucKdk
+        source: HMV edition bonus
+    'Wired Differently':
+        id: 544QTdznzDo
+        source: HMV edition bonus
+    'Do You Remember':
+        id: D0rUdAH2Sy4
+        cover: Jarryd James
+        live: triple j Like A Version 2015
+        source: '"Like A Version 11" compilation album'
+    'Motorphobia':
+        id: h3bv1Su9poY
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    "Firing Squad (Come On I'm English, I'll Even Queue and Wait My Turn)":
+        id: uL9ETb1b8bw
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Headbutt Rock':
+        id: pci0WmZLTww
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Mosquito on the Wall':
+        id: H0U5eDtDdc0
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Hunting':
+        id: ZmF4tpM-56o
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Butterfly':
+        id: Z-vIGk4aCkY
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Glitterbug':
+        id: m_3C0M96UW0
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Viva the Broken Hearted':
+        id: CwMPXJWcnUk
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Kamikaze Lovers':
+        id: 9DeF5INnK3w
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+
+'Beautiful People Will Ruin Your Life':
+    'Cheetah Tongue':
+        id: xJef005lP70
+    'Lemon to a Knife Fight':
+        id: HwPa71UZRaQ
+    'Turn':
+        id: PDreOd1sP3U
+    'Black Flamingo':
+        id: ZN_vfUE8CKo
+    'White Eyes':
+        id: iBuG2ivounU
+    'Lethal Combination':
+        id: 2tgcfTos4zA
+    'Out of My Head':
+        id: FTkSeI44zaM
+    'I Only Wear Black':
+        id: ULn8LXOY3Ww
+    'Ice Cream':
+        id: 7LTg08DnAjs
+    'Dip You in Honey':
+        id: LPFurgvLbZg
+    "I Don't Know Why I Like You but I Do":
+        id: 1COt9HOzJEA
+    'Bee-Sting':
+        id: ksYr6RVRDuM
+        source: extended version
+    'Oceans':
+        id: QIE3cfTJDZM
+        source: extended version
+    'Los Ageless':
+        id: RQU3TfUrop8
+        cover: St. Vincent
+        live: Radio 1 2018
+        source: Spotify Singles
+    'White Christmas':
+        id: PzaC2wsCOik
+        cover: Bing Crosby
+        live: triple j Like A Version 2018
+        source: '"Like A Version 15" compilation album'
+    'Tormentor':
+        id: awTw1IcZCsg
+        source: '"B - Z Sides (2003 - 2017) (In Rough Chronological Order)" compilation album'
+    'Clouds':
+        id: PkjjERrFHwk
+        source: '"Fantasy" album by Whethan'
+    'Nothing to Love About Love':
+        id: xqvBk0Hhzp0
+        source: single by Peking Duk
+
+'Fix Yourself, Not the World':
+    'Flip Me Upside Down':
+        id: gg6R6l7w25I
+    'This Car Drives All by Itself':
+        id: OxSJChK5tSM
+    "If You Ever Leave, I'm Coming with You":
+        id: OIlzMQEtE-I
+    'Ready for the High':
+        id: eAIMn4CYDBc
+    'Method to the Madness':
+        id: Z1BAa7llX90
+    "People Don't Change People, Time Does":
+        id: Jum4eWcm6H0
+    'Everything I Love Is Going to Die':
+        id: XW09c_Lvpdg
+    'Work Is Easy, Life Is Hard':
+        id: Fa1RyuH24D4
+    'Wildfire':
+        id: 3BPfaK0gog8
+    "Don't Poke the Bear":
+        id: TJHaIWbrZ-U
+    'Worry':
+        id: hj5ksyhXV_M
+    'Fix Yourself, Then the World (Reach Beyond Your Fingers)':
+        id: wYxs2wrWuFc
+    'Running Up That Hill':
+        id: 3G99CNa_UYc
+        cover: Kate Bush
+        live: triple j Like A Version 2022
+        source: '"Running Up That Hill (triple j Like A Version)" single'
+    'I Think My Mind Has Made Its Mind Up':
+        id: -2zb0KMe_3o
+        source: '"Is This What It Feels Like to Feel Like This?" EP'
+    'Dressed to Kill':
+        id: shscifCFFQ4
+        source: '"Is This What It Feels Like to Feel Like This?" EP'
+    'Demon':
+        id: GeJuNJe0wWE
+        source: '"Is This What It Feels Like to Feel Like This?" EP'
+    'Is This What It Feels Like to Feel Like This?':
+        id: DrzeORT21Yk
+        source: '"Is This What It Feels Like to Feel Like This?" EP'
+    'Same Old Damage':
+        id: ztnrAa2Wp_Q
+        source: '"Is This What It Feels Like to Feel Like This?" EP'
+    'Good Idea at the Time':
+        id: xTna7ZpJxTE
+        source: '"Is This What It Feels Like to Feel Like This?" EP'
+
+'Oh! The Ocean':
+    "Sorry I'm Late, I Didn't Want to Come":
+        id: ENgG_yZG19c
+    "Can't Say No":
+        id: Laxn5Iwf5T0
+    'Blood on the Hospital Floor':
+        id: TNSJ7N0r4nw
+    'Kate Moss':
+        id: 5dyTm_d94-A
+    'Gut-Punch':
+        id: hLMAfF6qh-A
+    'My Head Is Not My Friend':
+        id: RKTkwyyzGfk
+    'I Love America and She Hates Me':
+        id: Le1JSb2F4oo
+    "The World's Not Out to Get Me, I Am":
+        id: Esn6X6GPuqk
+    'Grim Reaper':
+        id: jxnxznEcOoE
+    'Reality Is a Wild Ride':
+        id: u2ATCBQy4yc
+    'Swerve (101)':
+        id: VuLbqcMno2M
+    'Lobster':
+        id: EEor-o94nEs
+    'Holy Sugar':
+        id: _h3dRGOFeWE
+        source: extended version
+    'Love You Like a Rainbow':
+        id: MUO3Ma5wsl8
+        source: extended version
+    'X-Rated':
+        id: DGWKjwbPicU
+        source: extended version
+    'Different Next Time':
+        id: 3PuywsCnlkQ
+        source: extended version
+    'The Power of Love':
+        id: Qz1EEekQTDY
+        cover: Huey Lewis and the News
+        live: triple j Like A Version 2025
+        source: '"The Power of Love (triple j Like A Version)" single'
